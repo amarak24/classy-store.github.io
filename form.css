@@ -1,0 +1,40 @@
+section {
+ 
+    text-align: center;
+    justify-content: center;
+    size: 400;
+
+}
+  
+body{
+    margin: 0;
+    padding: 0;
+    background: url(https://st2.depositphotos.com/1265075/7446/i/600/depositphotos_74468913-stock-photo-contact-us-icons-on-cubes.jpg);
+    text-decoration-color: brown;
+}
+ 
+.label{
+    text-transform: uppercase;
+    color:red;
+    text-shadow: cornsilk;
+    text size: 25;
+}
+.btn{
+    text-transform: uppercase
+    color: red;
+}
+
+h2{
+    text-transform: uppercase;
+    color: crimson;
+}
+
+.btn{
+    text-transform: uppercase;
+    color: red;
+    letter-spacing: 2;
+    margin-left: auto;
+    background: none;
+    border: orange solid 2px;
+}
+
